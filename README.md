@@ -14,13 +14,9 @@ Buon lavoro!
 
 ![6-desktop](https://github.com/user-attachments/assets/60749fa9-9896-49c9-9cb0-ca185e35ee06)
 
-![6-tablet](https://github.com/user-attachments/assets/07ffa84e-6b9f-4c9d-abae-cdb349fd9a7f)
-
-![6-mobile](https://github.com/user-attachments/assets/d80a9fb6-c200-4322-b32d-3a8ebe6338d6)
+![6-tablet](https://github.com/user-attachments/assets/07ffa84e-6b9f-4c9d-abae-cdb349fd9a7f)  ![6-mobile](https://github.com/user-attachments/assets/d80a9fb6-c200-4322-b32d-3a8ebe6338d6)
 
 
 ![6-desktop-bonus](https://github.com/user-attachments/assets/67f43cfe-b2ba-49bb-a0b3-c7abb21ab550)
 
-![6-tablet-bonus](https://github.com/user-attachments/assets/232df8b6-c703-4eeb-8763-d40838d48eea)
-
-![6-mobile-bonus](https://github.com/user-attachments/assets/c7d69620-66e1-4905-aa27-f8a0133e3f69)
+![6-tablet-bonus](https://github.com/user-attachments/assets/232df8b6-c703-4eeb-8763-d40838d48eea)  ![6-mobile-bonus](https://github.com/user-attachments/assets/c7d69620-66e1-4905-aa27-f8a0133e3f69)
