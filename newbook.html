@@ -46,7 +46,7 @@
         <h1 class="py-4 fs-2">Nuovo Libro</h1>
         <!--End-->
 
-        <form action="URL" method="get">
+        <form action="URL" method="get" class="needs-validation"  novalidate>
 
             <div class="row">
                 <!--Nome e Cognome-->
@@ -98,7 +98,29 @@
                 <!--End-->
             </div>
 
-           
+            <div class="row">
+                <div class="col">
+                    <!--Note-->
+                    <div class="input-group pt-4">
+                        <label for="form-control" class="form-label fw-semibold">Note</label>
+                        <textarea class="form-control w-100" placeholder="Inserisci eventuali note sul libro" aria-label="Notes"></textarea>
+                    </div>
+                    <!--End-->
+
+                    <!--Disponibile anche in digitale-->
+                    <div class="form-check pt-3">
+                        <input class="form-check-input" type="checkbox" value="" id="available-digitally">
+                        <label class="form-check-label" for="available-digitally">Disponibile anche in digitale</label>
+                    </div>
+                    <!--End-->
+
+                    <!--Aggiungi libro-->
+                    <div class="col-12 pt-3">
+                        <button class="btn btn-primary" type="submit">Aggiungi Libro</button>
+                    </div>
+                    <!--End-->
+                </div>
+            </div>
 
         </form>
 
