@@ -52,11 +52,11 @@
                 <!--Nome e Cognome-->
                 <div class="col">
                     <label for="form-control" class="form-label fw-semibold">Nome Autore</label>
-                    <input type="text" class="form-control" placeholder="Inserisci il nome dell'autore" aria-label="First name">
+                    <input type="text" class="form-control" name="Nome" placeholder="Inserisci il nome dell'autore" aria-label="Nome">
                 </div>
                 <div class="col">
                     <label for="form-control" class="form-label fw-semibold">Cognome Autore</label>
-                    <input type="text" class="form-control" placeholder="Inserisci il cognome dell'autore" aria-label="Last name">
+                    <input type="text" class="form-control" name="Cognome" placeholder="Inserisci il cognome dell'autore" aria-label="Cognome">
                 </div>
                 <!--End-->
             </div>
@@ -65,7 +65,7 @@
                 <!--Titolo-->
                 <div class="col">
                     <label for="form-control" class="form-label fw-semibold">Titolo</label>
-                    <input type="text" class="form-control" placeholder="Inserisci il titolo del libro" aria-label="Title">
+                    <input type="text" class="form-control" name="Titolo" placeholder="Inserisci il titolo del libro" aria-label="Titolo">
                     <div id="titleHelp" class="form-text">Titolo versione italiana</div>
                 </div>
                 <!--End-->
@@ -75,7 +75,7 @@
                 <!--Genere-->
                 <div class="col-12 col-md-4 pt-3">
                     <label for="form-select" class="form-label fw-semibold">Genere</label>
-                    <select class="form-select" aria-label="Gender">
+                    <select class="form-select" name="Genere" aria-label="Genere">
                         <option selected disabled>Scegli il genere</option>
                         <option value="Male">Male</option>
                         <option value="Female">Female</option>
@@ -86,14 +86,14 @@
                 <!--Anno di Pubblicazione-->
                 <div class="col-12 col-md-4 pt-3">
                     <label for="form-control" class="form-label fw-semibold">Anno di Pubblicazione</label>
-                    <input type="text" class="form-control" placeholder="Inserisci l'anno" aria-label="Year">
+                    <input type="text" class="form-control" name="Anno" placeholder="Inserisci l'anno" aria-label="Anno">
                 </div>
                 <!--End-->
 
                 <!--ISBN#-->
                 <div class="col-12 col-md-4 pt-3">
                     <label for="form-control" class="form-label fw-semibold">ISBN#</label>
-                    <input type="text" class="form-control" placeholder="Inserisci il codice ISBN#" aria-label="ISBN# code">
+                    <input type="text" class="form-control" name="ISBN#" placeholder="Inserisci il codice ISBN#" aria-label="Codice ISBN#">
                 </div>
                 <!--End-->
             </div>
@@ -103,13 +103,13 @@
                     <!--Note-->
                     <div class="input-group pt-4">
                         <label for="form-control" class="form-label fw-semibold">Note</label>
-                        <textarea class="form-control w-100" placeholder="Inserisci eventuali note sul libro" aria-label="Notes"></textarea>
+                        <textarea class="form-control w-100" name="Note" placeholder="Inserisci eventuali note sul libro" aria-label="Note"></textarea>
                     </div>
                     <!--End-->
 
                     <!--Disponibile anche in digitale-->
                     <div class="form-check pt-3">
-                        <input class="form-check-input" type="checkbox" value="" id="available-digitally">
+                        <input class="form-check-input" name="Disponibile in digitale" type="checkbox" value="" id="available-digitally">
                         <label class="form-check-label" for="available-digitally">Disponibile anche in digitale</label>
                     </div>
                     <!--End-->
